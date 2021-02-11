@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@’s My New Hugo Site - My New Hugo Site</title>
-    <link>http://example.org/http://example.org/</link>
-    <description>All entries in My New Hugo Site on My New Hugo Site</description>
+    <title>@’s Live new updates from the OSO team - Live new updates from the OSO team</title>
+    <link>http://news.osodevops.iohttp://news.osodevops.io/</link>
+    <description>All entries in Live new updates from the OSO team on Live new updates from the OSO team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     
-    <atom:link href="http://example.org/" rel="self" type="application/rss+xml" />
+    <atom:link href="http://news.osodevops.io/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
