@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://news.osodevops.io/categories/</loc>
+    <loc>http://news.osodevops.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://news.osodevops.io/</loc>
+    <loc>http://news.osodevops.io/</loc>
   </url>
   
   <url>
-    <loc>https://news.osodevops.io/tag/</loc>
+    <loc>http://news.osodevops.io/tag/</loc>
   </url>
   
 </urlset>
