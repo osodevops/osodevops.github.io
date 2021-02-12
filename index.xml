@@ -1,13 +1,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@’s Live news updates from the OSO team - Live news updates from the OSO team</title>
+    <title>@OSO’s news updates from the team - news updates from the team</title>
     <link>https://news.osodevops.io/https://news.osodevops.io/</link>
-    <description>All entries in Live news updates from the OSO team on Live news updates from the OSO team</description>
+    <description>All entries in news updates from the team on news updates from the team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     
     <atom:link href="https://news.osodevops.io/" rel="self" type="application/rss+xml" />
+    
+      
     
   </channel>
 </rss>
