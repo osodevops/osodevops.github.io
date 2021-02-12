@@ -1,17 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@OSO’s news updates from the team - news updates from the team</title>
-    <link>https://news.osodevops.io/https://news.osodevops.io/</link>
-    <description>All entries in news updates from the team on news updates from the team</description>
+    <title>@OSO’s news updates from the team - Microposts</title>
+    <link>https://news.osodevops.io/microposts/</link>
+    <description>All entries in Microposts on news updates from the team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <lastBuildDate>Thu, 11 Feb 2021 17:35:23 +0000</lastBuildDate>
-    <atom:link href="https://news.osodevops.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://news.osodevops.io/microposts/" rel="self" type="application/rss+xml" />
     
       
       <item>
-        <title>Grwoth at OSO</title>
+      	
         <link>https://news.osodevops.io/microposts/quick-thought/</link>
         <pubDate>Thu, 11 Feb 2021 17:35:23 +0000</pubDate>
         <author>OSO Team</author>
